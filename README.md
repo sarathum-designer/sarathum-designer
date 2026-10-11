@@ -14,12 +14,6 @@ Product designer & builder: AI sales automation and web products for real estate
   <img height="170" src="https://streak-stats.demolab.com?user=sarathum-designer&theme=github-dark-blue&background=0d1117&border=30363d&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="Contribution streak">
 </p>
 
-### 🟩 Contributions
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/3fb950/sarathum-designer" alt="Contribution graph">
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
